@@ -1,0 +1,17 @@
+[
+  {
+    "window": 1,
+    "timeSlot": "00:00",
+    "startTime": "2024-01-15T00:00:00",
+    "endTime": "2024-01-15T00:15:00",
+    "bands": {
+      "delta_uV2_Hz": 967.39093183,
+      "theta_uV2_Hz": 184.02229591,
+      "alpha_uV2_Hz": 221.75867077,
+      "beta_uV2_Hz": 91.57220292,
+      "gamma_uV2_Hz": 13.05143418
+    },
+    "cognitiveLoad": 4.4,
+    "calmness": 18.2
+  }
+]
