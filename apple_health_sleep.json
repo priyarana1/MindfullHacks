@@ -1,0 +1,322 @@
+{
+  "exportDate": "2024-01-15T07:45:00-05:00",
+  "queryType": "HKCategoryTypeIdentifierSleepAnalysis",
+  "sourceName": "Priya's Apple Watch",
+  "sourceVersion": "10.3.2",
+  "deviceModel": "Watch7,2",
+  "deviceName": "Apple Watch Series 9",
+  "locale": "en_US",
+  "sleepSessions": [
+    {
+      "sessionId": "550e8400-e29b-41d4-a716-446655440001",
+      "type": "nighttimeSleep",
+      "inBed": {
+        "startDate": "2024-01-14T23:54:00-05:00",
+        "endDate": "2024-01-15T07:30:00-05:00",
+        "durationMinutes": 456
+      },
+      "asleep": {
+        "totalMinutes": 438,
+        "efficiency": 0.961
+      },
+      "stages": [
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000001",
+          "value": "HKCategoryValueSleepAnalysisAsleepCore",
+          "startDate": "2024-01-15T00:00:00-05:00",
+          "endDate": "2024-01-15T00:15:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000002",
+          "value": "HKCategoryValueSleepAnalysisAsleepDeep",
+          "startDate": "2024-01-15T00:15:00-05:00",
+          "endDate": "2024-01-15T00:30:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000003",
+          "value": "HKCategoryValueSleepAnalysisAsleepDeep",
+          "startDate": "2024-01-15T00:30:00-05:00",
+          "endDate": "2024-01-15T00:45:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000004",
+          "value": "HKCategoryValueSleepAnalysisAsleepDeep",
+          "startDate": "2024-01-15T00:45:00-05:00",
+          "endDate": "2024-01-15T01:00:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000005",
+          "value": "HKCategoryValueSleepAnalysisAsleepDeep",
+          "startDate": "2024-01-15T01:00:00-05:00",
+          "endDate": "2024-01-15T01:15:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000006",
+          "value": "HKCategoryValueSleepAnalysisAsleepDeep",
+          "startDate": "2024-01-15T01:15:00-05:00",
+          "endDate": "2024-01-15T01:30:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000007",
+          "value": "HKCategoryValueSleepAnalysisAsleepCore",
+          "startDate": "2024-01-15T01:30:00-05:00",
+          "endDate": "2024-01-15T01:45:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000008",
+          "value": "HKCategoryValueSleepAnalysisAsleepCore",
+          "startDate": "2024-01-15T01:45:00-05:00",
+          "endDate": "2024-01-15T02:00:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000009",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T02:00:00-05:00",
+          "endDate": "2024-01-15T02:15:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000010",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T02:15:00-05:00",
+          "endDate": "2024-01-15T02:30:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000011",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T02:30:00-05:00",
+          "endDate": "2024-01-15T02:45:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000012",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T02:45:00-05:00",
+          "endDate": "2024-01-15T03:00:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000013",
+          "value": "HKCategoryValueSleepAnalysisAsleepCore",
+          "startDate": "2024-01-15T03:00:00-05:00",
+          "endDate": "2024-01-15T03:15:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000014",
+          "value": "HKCategoryValueSleepAnalysisAsleepDeep",
+          "startDate": "2024-01-15T03:15:00-05:00",
+          "endDate": "2024-01-15T03:30:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000015",
+          "value": "HKCategoryValueSleepAnalysisAsleepDeep",
+          "startDate": "2024-01-15T03:30:00-05:00",
+          "endDate": "2024-01-15T03:45:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000016",
+          "value": "HKCategoryValueSleepAnalysisAsleepDeep",
+          "startDate": "2024-01-15T03:45:00-05:00",
+          "endDate": "2024-01-15T04:00:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000017",
+          "value": "HKCategoryValueSleepAnalysisAsleepDeep",
+          "startDate": "2024-01-15T04:00:00-05:00",
+          "endDate": "2024-01-15T04:15:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000018",
+          "value": "HKCategoryValueSleepAnalysisAsleepCore",
+          "startDate": "2024-01-15T04:15:00-05:00",
+          "endDate": "2024-01-15T04:30:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000019",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T04:30:00-05:00",
+          "endDate": "2024-01-15T04:45:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000020",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T04:45:00-05:00",
+          "endDate": "2024-01-15T05:00:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000021",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T05:00:00-05:00",
+          "endDate": "2024-01-15T05:15:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000022",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T05:15:00-05:00",
+          "endDate": "2024-01-15T05:30:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000023",
+          "value": "HKCategoryValueSleepAnalysisAsleepCore",
+          "startDate": "2024-01-15T05:30:00-05:00",
+          "endDate": "2024-01-15T05:45:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000024",
+          "value": "HKCategoryValueSleepAnalysisAsleepCore",
+          "startDate": "2024-01-15T05:45:00-05:00",
+          "endDate": "2024-01-15T06:00:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000025",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T06:00:00-05:00",
+          "endDate": "2024-01-15T06:15:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000026",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T06:15:00-05:00",
+          "endDate": "2024-01-15T06:30:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000027",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T06:30:00-05:00",
+          "endDate": "2024-01-15T06:45:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000028",
+          "value": "HKCategoryValueSleepAnalysisAsleepREM",
+          "startDate": "2024-01-15T06:45:00-05:00",
+          "endDate": "2024-01-15T07:00:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000029",
+          "value": "HKCategoryValueSleepAnalysisAsleepCore",
+          "startDate": "2024-01-15T07:00:00-05:00",
+          "endDate": "2024-01-15T07:15:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        },
+        {
+          "uuid": "a1b2c3d4-0001-0001-0001-000000000030",
+          "value": "HKCategoryValueSleepAnalysisAwake",
+          "startDate": "2024-01-15T07:15:00-05:00",
+          "endDate": "2024-01-15T07:30:00-05:00",
+          "durationMinutes": 15,
+          "metadata": { "HKMetadataKeyHeartRateMotionContext": 0 }
+        }
+      ],
+      "stageSummary": {
+        "deepSleepMinutes": 120,
+        "coreSleepMinutes": 120,
+        "remSleepMinutes": 180,
+        "awakeMinutes": 18,
+        "totalAsleepMinutes": 420
+      },
+      "heartRateDuringSleep": {
+        "avg": 55,
+        "min": 47,
+        "max": 68,
+        "unit": "count/min"
+      },
+      "respiratoryRate": {
+        "avg": 15.2,
+        "min": 14.1,
+        "max": 16.8,
+        "unit": "count/min"
+      },
+      "bloodOxygenSaturation": {
+        "avg": 97.4,
+        "min": 95.0,
+        "max": 99.0,
+        "unit": "%"
+      },
+      "wristTemperatureDeviation": {
+        "value": 0.3,
+        "unit": "degC"
+      }
+    },
+    {
+      "sessionId": "550e8400-e29b-41d4-a716-446655440002",
+      "type": "inBedSession",
+      "inBed": {
+        "startDate": "2024-01-15T21:00:00-05:00",
+        "endDate": "2024-01-16T01:00:00-05:00",
+        "durationMinutes": 240
+      },
+      "asleep": {
+        "totalMinutes": 0,
+        "efficiency": 0.0
+      },
+      "stages": [
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000001", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T21:00:00-05:00", "endDate": "2024-01-15T21:15:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000002", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T21:15:00-05:00", "endDate": "2024-01-15T21:30:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000003", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T21:30:00-05:00", "endDate": "2024-01-15T21:45:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000004", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T21:45:00-05:00", "endDate": "2024-01-15T22:00:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000005", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T22:00:00-05:00", "endDate": "2024-01-15T22:15:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000006", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T22:15:00-05:00", "endDate": "2024-01-15T22:30:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000007", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T22:30:00-05:00", "endDate": "2024-01-15T22:45:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000008", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T22:45:00-05:00", "endDate": "2024-01-15T23:00:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000009", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T23:00:00-05:00", "endDate": "2024-01-15T23:15:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000010", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T23:15:00-05:00", "endDate": "2024-01-15T23:30:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000011", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T23:30:00-05:00", "endDate": "2024-01-15T23:45:00-05:00", "durationMinutes": 15 },
+        { "uuid": "a1b2c3d4-0002-0001-0001-000000000012", "value": "HKCategoryValueSleepAnalysisInBed", "startDate": "2024-01-15T23:45:00-05:00", "endDate": "2024-01-16T00:00:00-05:00", "durationMinutes": 15 }
+      ]
+    }
+  ]
+}

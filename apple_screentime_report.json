@@ -1,0 +1,243 @@
+{
+  "reportType": "DeviceActivityReport",
+  "reportingInterval": {
+    "start": "2024-01-15T00:00:00-05:00",
+    "end": "2024-01-16T00:00:00-05:00"
+  },
+  "deviceName": "Priya's iPhone",
+  "deviceModel": "iPhone16,2",
+  "systemVersion": "17.2.1",
+  "totalScreenTime": 34722,
+  "totalPickups": 87,
+  "totalNotifications": 142,
+  "firstPickup": "2024-01-15T07:32:14-05:00",
+
+  "categories": [
+    {
+      "categoryToken": "com.apple.Screen-Time.social-networking-category",
+      "localizedName": "Social Networking",
+      "totalDuration": 18426,
+      "numberOfPickups": 42,
+      "applications": [
+        {
+          "bundleIdentifier": "com.burbn.instagram",
+          "localizedDisplayName": "Instagram",
+          "totalDuration": 8240,
+          "numberOfPickups": 18,
+          "numberOfNotifications": 31
+        },
+        {
+          "bundleIdentifier": "com.atebits.Tweetie2",
+          "localizedDisplayName": "X",
+          "totalDuration": 4820,
+          "numberOfPickups": 12,
+          "numberOfNotifications": 22
+        },
+        {
+          "bundleIdentifier": "ph.telegra.Telegraph",
+          "localizedDisplayName": "Telegram",
+          "totalDuration": 3140,
+          "numberOfPickups": 8,
+          "numberOfNotifications": 48
+        },
+        {
+          "bundleIdentifier": "com.apple.MobileSMS",
+          "localizedDisplayName": "Messages",
+          "totalDuration": 2226,
+          "numberOfPickups": 4,
+          "numberOfNotifications": 19
+        }
+      ]
+    },
+    {
+      "categoryToken": "com.apple.Screen-Time.entertainment-category",
+      "localizedName": "Entertainment",
+      "totalDuration": 7982,
+      "numberOfPickups": 14,
+      "applications": [
+        {
+          "bundleIdentifier": "com.spotify.client",
+          "localizedDisplayName": "Spotify",
+          "totalDuration": 4640,
+          "numberOfPickups": 6,
+          "numberOfNotifications": 0
+        },
+        {
+          "bundleIdentifier": "com.google.ios.youtube",
+          "localizedDisplayName": "YouTube",
+          "totalDuration": 2480,
+          "numberOfPickups": 6,
+          "numberOfNotifications": 4
+        },
+        {
+          "bundleIdentifier": "com.netflix.Netflix",
+          "localizedDisplayName": "Netflix",
+          "totalDuration": 862,
+          "numberOfPickups": 2,
+          "numberOfNotifications": 0
+        }
+      ]
+    },
+    {
+      "categoryToken": "com.apple.Screen-Time.productivity-category",
+      "localizedName": "Productivity & Finance",
+      "totalDuration": 5318,
+      "numberOfPickups": 16,
+      "applications": [
+        {
+          "bundleIdentifier": "com.apple.Notability",
+          "localizedDisplayName": "Notability",
+          "totalDuration": 2840,
+          "numberOfPickups": 8,
+          "numberOfNotifications": 2
+        },
+        {
+          "bundleIdentifier": "com.microsoft.teams",
+          "localizedDisplayName": "Microsoft Teams",
+          "totalDuration": 1562,
+          "numberOfPickups": 4,
+          "numberOfNotifications": 7
+        },
+        {
+          "bundleIdentifier": "com.google.Gmail",
+          "localizedDisplayName": "Gmail",
+          "totalDuration": 916,
+          "numberOfPickups": 4,
+          "numberOfNotifications": 12
+        }
+      ]
+    },
+    {
+      "categoryToken": "com.apple.Screen-Time.reading-category",
+      "localizedName": "Reading & Reference",
+      "totalDuration": 2900,
+      "numberOfPickups": 8,
+      "applications": [
+        {
+          "bundleIdentifier": "com.apple.iBooks",
+          "localizedDisplayName": "Books",
+          "totalDuration": 1800,
+          "numberOfPickups": 2,
+          "numberOfNotifications": 0
+        },
+        {
+          "bundleIdentifier": "com.reddit.Reddit",
+          "localizedDisplayName": "Reddit",
+          "totalDuration": 740,
+          "numberOfPickups": 4,
+          "numberOfNotifications": 8
+        },
+        {
+          "bundleIdentifier": "com.apple.news",
+          "localizedDisplayName": "Apple News",
+          "totalDuration": 360,
+          "numberOfPickups": 2,
+          "numberOfNotifications": 3
+        }
+      ]
+    },
+    {
+      "categoryToken": "com.apple.Screen-Time.health-fitness-category",
+      "localizedName": "Health & Fitness",
+      "totalDuration": 1044,
+      "numberOfPickups": 5,
+      "applications": [
+        {
+          "bundleIdentifier": "com.apple.Health",
+          "localizedDisplayName": "Health",
+          "totalDuration": 462,
+          "numberOfPickups": 3,
+          "numberOfNotifications": 2
+        },
+        {
+          "bundleIdentifier": "com.apple.Fitness",
+          "localizedDisplayName": "Fitness",
+          "totalDuration": 342,
+          "numberOfPickups": 1,
+          "numberOfNotifications": 0
+        },
+        {
+          "bundleIdentifier": "com.strava.stravaride",
+          "localizedDisplayName": "Strava",
+          "totalDuration": 240,
+          "numberOfPickups": 1,
+          "numberOfNotifications": 0
+        }
+      ]
+    },
+    {
+      "categoryToken": "com.apple.Screen-Time.other-category",
+      "localizedName": "Other",
+      "totalDuration": 972,
+      "numberOfPickups": 2,
+      "applications": [
+        {
+          "bundleIdentifier": "com.apple.Maps",
+          "localizedDisplayName": "Maps",
+          "totalDuration": 482,
+          "numberOfPickups": 1,
+          "numberOfNotifications": 1
+        },
+        {
+          "bundleIdentifier": "com.apple.mobilesafari",
+          "localizedDisplayName": "Safari",
+          "totalDuration": 490,
+          "numberOfPickups": 1,
+          "numberOfNotifications": 0
+        }
+      ]
+    }
+  ],
+
+  "hourlyBreakdown": [
+    { "hour": "2024-01-15T00:00:00-05:00", "totalDuration": 0,    "pickups": 0, "notifications": 0 },
+    { "hour": "2024-01-15T01:00:00-05:00", "totalDuration": 0,    "pickups": 0, "notifications": 0 },
+    { "hour": "2024-01-15T02:00:00-05:00", "totalDuration": 0,    "pickups": 0, "notifications": 0 },
+    { "hour": "2024-01-15T03:00:00-05:00", "totalDuration": 0,    "pickups": 0, "notifications": 0 },
+    { "hour": "2024-01-15T04:00:00-05:00", "totalDuration": 0,    "pickups": 0, "notifications": 0 },
+    { "hour": "2024-01-15T05:00:00-05:00", "totalDuration": 0,    "pickups": 0, "notifications": 0 },
+    { "hour": "2024-01-15T06:00:00-05:00", "totalDuration": 0,    "pickups": 0, "notifications": 0 },
+    { "hour": "2024-01-15T07:00:00-05:00", "totalDuration": 255,  "pickups": 3, "notifications": 8,
+      "breakdown": { "socialNetworking": 48, "entertainment": 0, "productivity": 0, "reading": 84, "health": 12, "other": 38, "games": 0 } },
+    { "hour": "2024-01-15T08:00:00-05:00", "totalDuration": 510,  "pickups": 6, "notifications": 14,
+      "breakdown": { "socialNetworking": 122, "entertainment": 0, "productivity": 138, "reading": 62, "health": 0, "other": 6, "games": 0 } },
+    { "hour": "2024-01-15T09:00:00-05:00", "totalDuration": 360,  "pickups": 2, "notifications": 4,
+      "breakdown": { "socialNetworking": 0, "entertainment": 0, "productivity": 300, "reading": 0, "health": 0, "other": 0, "games": 0 } },
+    { "hour": "2024-01-15T10:00:00-05:00", "totalDuration": 520,  "pickups": 5, "notifications": 7,
+      "breakdown": { "socialNetworking": 152, "entertainment": 0, "productivity": 268, "reading": 60, "health": 18, "other": 22, "games": 0 } },
+    { "hour": "2024-01-15T11:00:00-05:00", "totalDuration": 288,  "pickups": 2, "notifications": 1,
+      "breakdown": { "socialNetworking": 60, "entertainment": 0, "productivity": 0, "reading": 30, "health": 198, "other": 0, "games": 0 } },
+    { "hour": "2024-01-15T12:00:00-05:00", "totalDuration": 1360, "pickups": 8, "notifications": 12,
+      "breakdown": { "socialNetworking": 832, "entertainment": 362, "productivity": 0, "reading": 0, "health": 44, "other": 50, "games": 0 } },
+    { "hour": "2024-01-15T13:00:00-05:00", "totalDuration": 1540, "pickups": 7, "notifications": 11,
+      "breakdown": { "socialNetworking": 570, "entertainment": 816, "productivity": 34, "reading": 0, "health": 0, "other": 82, "games": 0 } },
+    { "hour": "2024-01-15T14:00:00-05:00", "totalDuration": 1002, "pickups": 6, "notifications": 8,
+      "breakdown": { "socialNetworking": 234, "entertainment": 62, "productivity": 656, "reading": 0, "health": 0, "other": 8, "games": 0 } },
+    { "hour": "2024-01-15T15:00:00-05:00", "totalDuration": 880,  "pickups": 3, "notifications": 4,
+      "breakdown": { "socialNetworking": 450, "entertainment": 0, "productivity": 388, "reading": 0, "health": 0, "other": 0, "games": 0 } },
+    { "hour": "2024-01-15T16:00:00-05:00", "totalDuration": 2312, "pickups": 5, "notifications": 6,
+      "breakdown": { "socialNetworking": 406, "entertainment": 0, "productivity": 906, "reading": 1800, "health": 0, "other": 0, "games": 0 } },
+    { "hour": "2024-01-15T17:00:00-05:00", "totalDuration": 800,  "pickups": 5, "notifications": 9,
+      "breakdown": { "socialNetworking": 240, "entertainment": 366, "productivity": 0, "reading": 0, "health": 0, "other": 194, "games": 0 } },
+    { "hour": "2024-01-15T18:00:00-05:00", "totalDuration": 710,  "pickups": 4, "notifications": 6,
+      "breakdown": { "socialNetworking": 244, "entertainment": 406, "productivity": 0, "reading": 0, "health": 0, "other": 60, "games": 0 } },
+    { "hour": "2024-01-15T19:00:00-05:00", "totalDuration": 1440, "pickups": 6, "notifications": 8,
+      "breakdown": { "socialNetworking": 786, "entertainment": 562, "productivity": 32, "reading": 0, "health": 0, "other": 60, "games": 0 } },
+    { "hour": "2024-01-15T20:00:00-05:00", "totalDuration": 1532, "pickups": 7, "notifications": 9,
+      "breakdown": { "socialNetworking": 1082, "entertainment": 460, "productivity": 0, "reading": 0, "health": 0, "other": 0, "games": 0 } },
+    { "hour": "2024-01-15T21:00:00-05:00", "totalDuration": 2756, "pickups": 4, "notifications": 6,
+      "breakdown": { "socialNetworking": 2062, "entertainment": 538, "productivity": 0, "reading": 46, "health": 0, "other": 50, "games": 0 } },
+    { "hour": "2024-01-15T22:00:00-05:00", "totalDuration": 2640, "pickups": 4, "notifications": 5,
+      "breakdown": { "socialNetworking": 1972, "entertainment": 346, "productivity": 0, "reading": 0, "health": 0, "other": 0, "games": 0 } },
+    { "hour": "2024-01-15T23:00:00-05:00", "totalDuration": 2558, "pickups": 2, "notifications": 3,
+      "breakdown": { "socialNetworking": 1862, "entertainment": 464, "productivity": 0, "reading": 0, "health": 0, "other": 0, "games": 0 } }
+  ],
+
+  "limits": {
+    "screenTimePasscodeEnabled": false,
+    "communicationLimitsEnabled": false,
+    "downtime": {
+      "enabled": false
+    }
+  }
+}
