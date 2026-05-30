@@ -5,13 +5,1438 @@
     "startTime": "2024-01-15T00:00:00",
     "endTime": "2024-01-15T00:15:00",
     "bands": {
-      "delta_uV2_Hz": 967.39093183,
-      "theta_uV2_Hz": 184.02229591,
-      "alpha_uV2_Hz": 221.75867077,
-      "beta_uV2_Hz": 91.57220292,
-      "gamma_uV2_Hz": 13.05143418
+      "delta_uV2_Hz": 662.72377184,
+      "theta_uV2_Hz": 255.02123612,
+      "alpha_uV2_Hz": 205.82001574,
+      "beta_uV2_Hz": 112.36437532,
+      "gamma_uV2_Hz": 34.57592965
     },
-    "cognitiveLoad": 4.4,
-    "calmness": 18.2
+    "cognitiveLoad": 3.6,
+    "calmness": 21.1
+  },
+  {
+    "window": 2,
+    "timeSlot": "00:15",
+    "startTime": "2024-01-15T00:15:00",
+    "endTime": "2024-01-15T00:30:00",
+    "bands": {
+      "delta_uV2_Hz": 926.9771405,
+      "theta_uV2_Hz": 168.48077616,
+      "alpha_uV2_Hz": 108.4597217,
+      "beta_uV2_Hz": 61.67412638,
+      "gamma_uV2_Hz": 12.45528636
+    },
+    "cognitiveLoad": 4.5,
+    "calmness": 0.0
+  },
+  {
+    "window": 3,
+    "timeSlot": "00:30",
+    "startTime": "2024-01-15T00:30:00",
+    "endTime": "2024-01-15T00:45:00",
+    "bands": {
+      "delta_uV2_Hz": 939.11553824,
+      "theta_uV2_Hz": 174.48235738,
+      "alpha_uV2_Hz": 114.13852928,
+      "beta_uV2_Hz": 64.90844179,
+      "gamma_uV2_Hz": 12.35683197
+    },
+    "cognitiveLoad": 4.5,
+    "calmness": 0.7
+  },
+  {
+    "window": 4,
+    "timeSlot": "00:45",
+    "startTime": "2024-01-15T00:45:00",
+    "endTime": "2024-01-15T01:00:00",
+    "bands": {
+      "delta_uV2_Hz": 929.89675471,
+      "theta_uV2_Hz": 170.04645229,
+      "alpha_uV2_Hz": 118.12285713,
+      "beta_uV2_Hz": 67.79622596,
+      "gamma_uV2_Hz": 10.64881694
+    },
+    "cognitiveLoad": 4.6,
+    "calmness": 1.7
+  },
+  {
+    "window": 5,
+    "timeSlot": "01:00",
+    "startTime": "2024-01-15T01:00:00",
+    "endTime": "2024-01-15T01:15:00",
+    "bands": {
+      "delta_uV2_Hz": 933.75012805,
+      "theta_uV2_Hz": 174.96198125,
+      "alpha_uV2_Hz": 117.07085793,
+      "beta_uV2_Hz": 64.16021643,
+      "gamma_uV2_Hz": 14.01606324
+    },
+    "cognitiveLoad": 3.7,
+    "calmness": 1.3
+  },
+  {
+    "window": 6,
+    "timeSlot": "01:15",
+    "startTime": "2024-01-15T01:15:00",
+    "endTime": "2024-01-15T01:30:00",
+    "bands": {
+      "delta_uV2_Hz": 934.46061328,
+      "theta_uV2_Hz": 179.2172747,
+      "alpha_uV2_Hz": 115.11563403,
+      "beta_uV2_Hz": 66.67504076,
+      "gamma_uV2_Hz": 11.64866933
+    },
+    "cognitiveLoad": 4.8,
+    "calmness": 0.9
+  },
+  {
+    "window": 7,
+    "timeSlot": "01:30",
+    "startTime": "2024-01-15T01:30:00",
+    "endTime": "2024-01-15T01:45:00",
+    "bands": {
+      "delta_uV2_Hz": 658.00111982,
+      "theta_uV2_Hz": 264.61434202,
+      "alpha_uV2_Hz": 195.34217613,
+      "beta_uV2_Hz": 115.60304374,
+      "gamma_uV2_Hz": 32.96930586
+    },
+    "cognitiveLoad": 5.3,
+    "calmness": 19.0
+  },
+  {
+    "window": 8,
+    "timeSlot": "01:45",
+    "startTime": "2024-01-15T01:45:00",
+    "endTime": "2024-01-15T02:00:00",
+    "bands": {
+      "delta_uV2_Hz": 667.39173717,
+      "theta_uV2_Hz": 260.50111353,
+      "alpha_uV2_Hz": 205.97122638,
+      "beta_uV2_Hz": 120.81046338,
+      "gamma_uV2_Hz": 32.51009783
+    },
+    "cognitiveLoad": 5.1,
+    "calmness": 20.5
+  },
+  {
+    "window": 9,
+    "timeSlot": "02:00",
+    "startTime": "2024-01-15T02:00:00",
+    "endTime": "2024-01-15T02:15:00",
+    "bands": {
+      "delta_uV2_Hz": 351.63571081,
+      "theta_uV2_Hz": 381.98162901,
+      "alpha_uV2_Hz": 273.48929163,
+      "beta_uV2_Hz": 203.00155061,
+      "gamma_uV2_Hz": 41.09233709
+    },
+    "cognitiveLoad": 10.7,
+    "calmness": 36.6
+  },
+  {
+    "window": 10,
+    "timeSlot": "02:15",
+    "startTime": "2024-01-15T02:15:00",
+    "endTime": "2024-01-15T02:30:00",
+    "bands": {
+      "delta_uV2_Hz": 370.34412996,
+      "theta_uV2_Hz": 382.03967641,
+      "alpha_uV2_Hz": 272.06345697,
+      "beta_uV2_Hz": 197.98215596,
+      "gamma_uV2_Hz": 43.80705121
+    },
+    "cognitiveLoad": 10.2,
+    "calmness": 35.5
+  },
+  {
+    "window": 11,
+    "timeSlot": "02:30",
+    "startTime": "2024-01-15T02:30:00",
+    "endTime": "2024-01-15T02:45:00",
+    "bands": {
+      "delta_uV2_Hz": 357.92240714,
+      "theta_uV2_Hz": 378.1137008,
+      "alpha_uV2_Hz": 283.19260453,
+      "beta_uV2_Hz": 205.56273295,
+      "gamma_uV2_Hz": 43.1093177
+    },
+    "cognitiveLoad": 10.1,
+    "calmness": 37.9
+  },
+  {
+    "window": 12,
+    "timeSlot": "02:45",
+    "startTime": "2024-01-15T02:45:00",
+    "endTime": "2024-01-15T03:00:00",
+    "bands": {
+      "delta_uV2_Hz": 355.09025698,
+      "theta_uV2_Hz": 376.97118812,
+      "alpha_uV2_Hz": 265.22747907,
+      "beta_uV2_Hz": 207.08829713,
+      "gamma_uV2_Hz": 40.70002366
+    },
+    "cognitiveLoad": 12.1,
+    "calmness": 35.0
+  },
+  {
+    "window": 13,
+    "timeSlot": "03:00",
+    "startTime": "2024-01-15T03:00:00",
+    "endTime": "2024-01-15T03:15:00",
+    "bands": {
+      "delta_uV2_Hz": 667.50351638,
+      "theta_uV2_Hz": 268.78135867,
+      "alpha_uV2_Hz": 212.21184925,
+      "beta_uV2_Hz": 115.7847085,
+      "gamma_uV2_Hz": 30.66287818
+    },
+    "cognitiveLoad": 3.6,
+    "calmness": 21.6
+  },
+  {
+    "window": 14,
+    "timeSlot": "03:15",
+    "startTime": "2024-01-15T03:15:00",
+    "endTime": "2024-01-15T03:30:00",
+    "bands": {
+      "delta_uV2_Hz": 930.05907379,
+      "theta_uV2_Hz": 176.0501587,
+      "alpha_uV2_Hz": 112.68100333,
+      "beta_uV2_Hz": 67.13507185,
+      "gamma_uV2_Hz": 12.12831076
+    },
+    "cognitiveLoad": 5.4,
+    "calmness": 0.5
+  },
+  {
+    "window": 15,
+    "timeSlot": "03:30",
+    "startTime": "2024-01-15T03:30:00",
+    "endTime": "2024-01-15T03:45:00",
+    "bands": {
+      "delta_uV2_Hz": 880.36556105,
+      "theta_uV2_Hz": 177.47196367,
+      "alpha_uV2_Hz": 113.83816288,
+      "beta_uV2_Hz": 65.51559664,
+      "gamma_uV2_Hz": 10.26515835
+    },
+    "cognitiveLoad": 4.7,
+    "calmness": 1.7
+  },
+  {
+    "window": 16,
+    "timeSlot": "03:45",
+    "startTime": "2024-01-15T03:45:00",
+    "endTime": "2024-01-15T04:00:00",
+    "bands": {
+      "delta_uV2_Hz": 926.46352039,
+      "theta_uV2_Hz": 183.4680421,
+      "alpha_uV2_Hz": 113.35250442,
+      "beta_uV2_Hz": 67.85768886,
+      "gamma_uV2_Hz": 12.42386144
+    },
+    "cognitiveLoad": 5.5,
+    "calmness": 0.6
+  },
+  {
+    "window": 17,
+    "timeSlot": "04:00",
+    "startTime": "2024-01-15T04:00:00",
+    "endTime": "2024-01-15T04:15:00",
+    "bands": {
+      "delta_uV2_Hz": 920.72880242,
+      "theta_uV2_Hz": 179.61397746,
+      "alpha_uV2_Hz": 118.10127826,
+      "beta_uV2_Hz": 63.58439435,
+      "gamma_uV2_Hz": 12.25203243
+    },
+    "cognitiveLoad": 3.4,
+    "calmness": 1.7
+  },
+  {
+    "window": 18,
+    "timeSlot": "04:15",
+    "startTime": "2024-01-15T04:15:00",
+    "endTime": "2024-01-15T04:30:00",
+    "bands": {
+      "delta_uV2_Hz": 671.80463155,
+      "theta_uV2_Hz": 250.94141399,
+      "alpha_uV2_Hz": 196.59176193,
+      "beta_uV2_Hz": 110.5047681,
+      "gamma_uV2_Hz": 30.9762046
+    },
+    "cognitiveLoad": 4.2,
+    "calmness": 19.4
+  },
+  {
+    "window": 19,
+    "timeSlot": "04:30",
+    "startTime": "2024-01-15T04:30:00",
+    "endTime": "2024-01-15T04:45:00",
+    "bands": {
+      "delta_uV2_Hz": 360.40906302,
+      "theta_uV2_Hz": 393.70473641,
+      "alpha_uV2_Hz": 281.33470655,
+      "beta_uV2_Hz": 194.05132948,
+      "gamma_uV2_Hz": 47.13114584
+    },
+    "cognitiveLoad": 8.8,
+    "calmness": 37.1
+  },
+  {
+    "window": 20,
+    "timeSlot": "04:45",
+    "startTime": "2024-01-15T04:45:00",
+    "endTime": "2024-01-15T05:00:00",
+    "bands": {
+      "delta_uV2_Hz": 360.44744273,
+      "theta_uV2_Hz": 381.01211593,
+      "alpha_uV2_Hz": 276.62043256,
+      "beta_uV2_Hz": 203.30855411,
+      "gamma_uV2_Hz": 41.59089775
+    },
+    "cognitiveLoad": 10.4,
+    "calmness": 36.7
+  },
+  {
+    "window": 21,
+    "timeSlot": "05:00",
+    "startTime": "2024-01-15T05:00:00",
+    "endTime": "2024-01-15T05:15:00",
+    "bands": {
+      "delta_uV2_Hz": 359.46641441,
+      "theta_uV2_Hz": 377.25237603,
+      "alpha_uV2_Hz": 277.7104994,
+      "beta_uV2_Hz": 205.14073036,
+      "gamma_uV2_Hz": 43.77513653
+    },
+    "cognitiveLoad": 10.6,
+    "calmness": 36.9
+  },
+  {
+    "window": 22,
+    "timeSlot": "05:15",
+    "startTime": "2024-01-15T05:15:00",
+    "endTime": "2024-01-15T05:30:00",
+    "bands": {
+      "delta_uV2_Hz": 372.15776803,
+      "theta_uV2_Hz": 373.41432701,
+      "alpha_uV2_Hz": 280.782764,
+      "beta_uV2_Hz": 202.13591885,
+      "gamma_uV2_Hz": 46.84530691
+    },
+    "cognitiveLoad": 9.9,
+    "calmness": 37.0
+  },
+  {
+    "window": 23,
+    "timeSlot": "05:30",
+    "startTime": "2024-01-15T05:30:00",
+    "endTime": "2024-01-15T05:45:00",
+    "bands": {
+      "delta_uV2_Hz": 667.74253205,
+      "theta_uV2_Hz": 258.92461575,
+      "alpha_uV2_Hz": 197.5408805,
+      "beta_uV2_Hz": 114.8457489,
+      "gamma_uV2_Hz": 33.2519069
+    },
+    "cognitiveLoad": 4.9,
+    "calmness": 19.2
+  },
+  {
+    "window": 24,
+    "timeSlot": "05:45",
+    "startTime": "2024-01-15T05:45:00",
+    "endTime": "2024-01-15T06:00:00",
+    "bands": {
+      "delta_uV2_Hz": 645.57089054,
+      "theta_uV2_Hz": 261.39534322,
+      "alpha_uV2_Hz": 197.42604874,
+      "beta_uV2_Hz": 115.61052034,
+      "gamma_uV2_Hz": 32.87300349
+    },
+    "cognitiveLoad": 5.1,
+    "calmness": 19.9
+  },
+  {
+    "window": 25,
+    "timeSlot": "06:00",
+    "startTime": "2024-01-15T06:00:00",
+    "endTime": "2024-01-15T06:15:00",
+    "bands": {
+      "delta_uV2_Hz": 351.01234644,
+      "theta_uV2_Hz": 381.07466458,
+      "alpha_uV2_Hz": 282.91583181,
+      "beta_uV2_Hz": 200.76987266,
+      "gamma_uV2_Hz": 43.49747282
+    },
+    "cognitiveLoad": 9.5,
+    "calmness": 38.2
+  },
+  {
+    "window": 26,
+    "timeSlot": "06:15",
+    "startTime": "2024-01-15T06:15:00",
+    "endTime": "2024-01-15T06:30:00",
+    "bands": {
+      "delta_uV2_Hz": 340.87125713,
+      "theta_uV2_Hz": 377.20400175,
+      "alpha_uV2_Hz": 287.69060368,
+      "beta_uV2_Hz": 203.30258339,
+      "gamma_uV2_Hz": 46.69760683
+    },
+    "cognitiveLoad": 9.4,
+    "calmness": 39.4
+  },
+  {
+    "window": 27,
+    "timeSlot": "06:30",
+    "startTime": "2024-01-15T06:30:00",
+    "endTime": "2024-01-15T06:45:00",
+    "bands": {
+      "delta_uV2_Hz": 362.31920267,
+      "theta_uV2_Hz": 379.44399187,
+      "alpha_uV2_Hz": 275.82565824,
+      "beta_uV2_Hz": 204.87462335,
+      "gamma_uV2_Hz": 44.08046925
+    },
+    "cognitiveLoad": 10.7,
+    "calmness": 36.3
+  },
+  {
+    "window": 28,
+    "timeSlot": "06:45",
+    "startTime": "2024-01-15T06:45:00",
+    "endTime": "2024-01-15T07:00:00",
+    "bands": {
+      "delta_uV2_Hz": 356.55670713,
+      "theta_uV2_Hz": 389.82785993,
+      "alpha_uV2_Hz": 276.02375372,
+      "beta_uV2_Hz": 204.64913904,
+      "gamma_uV2_Hz": 47.70720652
+    },
+    "cognitiveLoad": 10.7,
+    "calmness": 36.0
+  },
+  {
+    "window": 29,
+    "timeSlot": "07:00",
+    "startTime": "2024-01-15T07:00:00",
+    "endTime": "2024-01-15T07:15:00",
+    "bands": {
+      "delta_uV2_Hz": 660.00900792,
+      "theta_uV2_Hz": 257.16183116,
+      "alpha_uV2_Hz": 207.8588346,
+      "beta_uV2_Hz": 108.06821032,
+      "gamma_uV2_Hz": 32.10791611
+    },
+    "cognitiveLoad": 2.7,
+    "calmness": 21.7
+  },
+  {
+    "window": 30,
+    "timeSlot": "07:15",
+    "startTime": "2024-01-15T07:15:00",
+    "endTime": "2024-01-15T07:30:00",
+    "bands": {
+      "delta_uV2_Hz": 251.85540289,
+      "theta_uV2_Hz": 347.37732728,
+      "alpha_uV2_Hz": 362.57961084,
+      "beta_uV2_Hz": 299.95613217,
+      "gamma_uV2_Hz": 67.54861559
+    },
+    "cognitiveLoad": 13.7,
+    "calmness": 51.4
+  },
+  {
+    "window": 31,
+    "timeSlot": "07:30",
+    "startTime": "2024-01-15T07:30:00",
+    "endTime": "2024-01-15T07:45:00",
+    "bands": {
+      "delta_uV2_Hz": 184.92034001,
+      "theta_uV2_Hz": 285.79853526,
+      "alpha_uV2_Hz": 474.23990904,
+      "beta_uV2_Hz": 283.41499686,
+      "gamma_uV2_Hz": 64.56808641
+    },
+    "cognitiveLoad": 5.5,
+    "calmness": 77.1
+  },
+  {
+    "window": 32,
+    "timeSlot": "07:45",
+    "startTime": "2024-01-15T07:45:00",
+    "endTime": "2024-01-15T08:00:00",
+    "bands": {
+      "delta_uV2_Hz": 184.75223947,
+      "theta_uV2_Hz": 286.35865074,
+      "alpha_uV2_Hz": 469.33325229,
+      "beta_uV2_Hz": 289.73658103,
+      "gamma_uV2_Hz": 74.10187267
+    },
+    "cognitiveLoad": 6.2,
+    "calmness": 75.2
+  },
+  {
+    "window": 33,
+    "timeSlot": "08:00",
+    "startTime": "2024-01-15T08:00:00",
+    "endTime": "2024-01-15T08:15:00",
+    "bands": {
+      "delta_uV2_Hz": 124.56467551,
+      "theta_uV2_Hz": 229.57150761,
+      "alpha_uV2_Hz": 322.1551631,
+      "beta_uV2_Hz": 472.33077992,
+      "gamma_uV2_Hz": 80.84738752
+    },
+    "cognitiveLoad": 36.7,
+    "calmness": 48.4
+  },
+  {
+    "window": 34,
+    "timeSlot": "08:15",
+    "startTime": "2024-01-15T08:15:00",
+    "endTime": "2024-01-15T08:30:00",
+    "bands": {
+      "delta_uV2_Hz": 125.79603643,
+      "theta_uV2_Hz": 224.037005,
+      "alpha_uV2_Hz": 333.7730245,
+      "beta_uV2_Hz": 474.48133045,
+      "gamma_uV2_Hz": 84.31334303
+    },
+    "cognitiveLoad": 35.1,
+    "calmness": 50.3
+  },
+  {
+    "window": 35,
+    "timeSlot": "08:30",
+    "startTime": "2024-01-15T08:30:00",
+    "endTime": "2024-01-15T08:45:00",
+    "bands": {
+      "delta_uV2_Hz": 105.74863783,
+      "theta_uV2_Hz": 183.88966568,
+      "alpha_uV2_Hz": 247.02041554,
+      "beta_uV2_Hz": 599.18301255,
+      "gamma_uV2_Hz": 102.63395509
+    },
+    "cognitiveLoad": 71.1,
+    "calmness": 31.3
+  },
+  {
+    "window": 36,
+    "timeSlot": "08:45",
+    "startTime": "2024-01-15T08:45:00",
+    "endTime": "2024-01-15T09:00:00",
+    "bands": {
+      "delta_uV2_Hz": 102.1332076,
+      "theta_uV2_Hz": 179.16540914,
+      "alpha_uV2_Hz": 250.14812347,
+      "beta_uV2_Hz": 601.40017382,
+      "gamma_uV2_Hz": 103.87172442
+    },
+    "cognitiveLoad": 70.3,
+    "calmness": 32.1
+  },
+  {
+    "window": 37,
+    "timeSlot": "09:00",
+    "startTime": "2024-01-15T09:00:00",
+    "endTime": "2024-01-15T09:15:00",
+    "bands": {
+      "delta_uV2_Hz": 99.19191847,
+      "theta_uV2_Hz": 166.17738619,
+      "alpha_uV2_Hz": 248.3524152,
+      "beta_uV2_Hz": 604.70513015,
+      "gamma_uV2_Hz": 109.72465537
+    },
+    "cognitiveLoad": 71.4,
+    "calmness": 32.1
+  },
+  {
+    "window": 38,
+    "timeSlot": "09:15",
+    "startTime": "2024-01-15T09:15:00",
+    "endTime": "2024-01-15T09:30:00",
+    "bands": {
+      "delta_uV2_Hz": 101.73228107,
+      "theta_uV2_Hz": 184.938036,
+      "alpha_uV2_Hz": 248.39142429,
+      "beta_uV2_Hz": 600.66250979,
+      "gamma_uV2_Hz": 108.41645277
+    },
+    "cognitiveLoad": 70.8,
+    "calmness": 31.4
+  },
+  {
+    "window": 39,
+    "timeSlot": "09:30",
+    "startTime": "2024-01-15T09:30:00",
+    "endTime": "2024-01-15T09:45:00",
+    "bands": {
+      "delta_uV2_Hz": 100.80687812,
+      "theta_uV2_Hz": 179.68844094,
+      "alpha_uV2_Hz": 252.14179539,
+      "beta_uV2_Hz": 602.77800237,
+      "gamma_uV2_Hz": 104.10719218
+    },
+    "cognitiveLoad": 69.8,
+    "calmness": 32.4
+  },
+  {
+    "window": 40,
+    "timeSlot": "09:45",
+    "startTime": "2024-01-15T09:45:00",
+    "endTime": "2024-01-15T10:00:00",
+    "bands": {
+      "delta_uV2_Hz": 101.44510151,
+      "theta_uV2_Hz": 183.55132911,
+      "alpha_uV2_Hz": 258.38453618,
+      "beta_uV2_Hz": 603.58462305,
+      "gamma_uV2_Hz": 106.22487055
+    },
+    "cognitiveLoad": 67.9,
+    "calmness": 33.2
+  },
+  {
+    "window": 41,
+    "timeSlot": "10:00",
+    "startTime": "2024-01-15T10:00:00",
+    "endTime": "2024-01-15T10:15:00",
+    "bands": {
+      "delta_uV2_Hz": 103.20495566,
+      "theta_uV2_Hz": 169.53911715,
+      "alpha_uV2_Hz": 244.78225971,
+      "beta_uV2_Hz": 608.074394,
+      "gamma_uV2_Hz": 108.2414258
+    },
+    "cognitiveLoad": 73.2,
+    "calmness": 31.0
+  },
+  {
+    "window": 42,
+    "timeSlot": "10:15",
+    "startTime": "2024-01-15T10:15:00",
+    "endTime": "2024-01-15T10:30:00",
+    "bands": {
+      "delta_uV2_Hz": 97.01454954,
+      "theta_uV2_Hz": 174.48167647,
+      "alpha_uV2_Hz": 245.86382721,
+      "beta_uV2_Hz": 608.7191153,
+      "gamma_uV2_Hz": 107.8340388
+    },
+    "cognitiveLoad": 72.9,
+    "calmness": 31.3
+  },
+  {
+    "window": 43,
+    "timeSlot": "10:30",
+    "startTime": "2024-01-15T10:30:00",
+    "endTime": "2024-01-15T10:45:00",
+    "bands": {
+      "delta_uV2_Hz": 121.09316377,
+      "theta_uV2_Hz": 211.16046858,
+      "alpha_uV2_Hz": 321.81910515,
+      "beta_uV2_Hz": 461.17027524,
+      "gamma_uV2_Hz": 105.13311523
+    },
+    "cognitiveLoad": 35.5,
+    "calmness": 48.9
+  },
+  {
+    "window": 44,
+    "timeSlot": "10:45",
+    "startTime": "2024-01-15T10:45:00",
+    "endTime": "2024-01-15T11:00:00",
+    "bands": {
+      "delta_uV2_Hz": 135.06861199,
+      "theta_uV2_Hz": 215.07297634,
+      "alpha_uV2_Hz": 323.55322727,
+      "beta_uV2_Hz": 456.20483575,
+      "gamma_uV2_Hz": 111.19915261
+    },
+    "cognitiveLoad": 34.6,
+    "calmness": 48.1
+  },
+  {
+    "window": 45,
+    "timeSlot": "11:00",
+    "startTime": "2024-01-15T11:00:00",
+    "endTime": "2024-01-15T11:15:00",
+    "bands": {
+      "delta_uV2_Hz": 123.71467348,
+      "theta_uV2_Hz": 221.17771561,
+      "alpha_uV2_Hz": 326.14124336,
+      "beta_uV2_Hz": 468.75550211,
+      "gamma_uV2_Hz": 104.17199385
+    },
+    "cognitiveLoad": 35.6,
+    "calmness": 48.5
+  },
+  {
+    "window": 46,
+    "timeSlot": "11:15",
+    "startTime": "2024-01-15T11:15:00",
+    "endTime": "2024-01-15T11:30:00",
+    "bands": {
+      "delta_uV2_Hz": 128.00536717,
+      "theta_uV2_Hz": 217.01716306,
+      "alpha_uV2_Hz": 330.85540379,
+      "beta_uV2_Hz": 452.79649772,
+      "gamma_uV2_Hz": 104.38678245
+    },
+    "cognitiveLoad": 33.2,
+    "calmness": 50.2
+  },
+  {
+    "window": 47,
+    "timeSlot": "11:30",
+    "startTime": "2024-01-15T11:30:00",
+    "endTime": "2024-01-15T11:45:00",
+    "bands": {
+      "delta_uV2_Hz": 167.99470126,
+      "theta_uV2_Hz": 247.76467067,
+      "alpha_uV2_Hz": 359.98363946,
+      "beta_uV2_Hz": 382.82712745,
+      "gamma_uV2_Hz": 98.9227917
+    },
+    "cognitiveLoad": 22.2,
+    "calmness": 55.1
+  },
+  {
+    "window": 48,
+    "timeSlot": "11:45",
+    "startTime": "2024-01-15T11:45:00",
+    "endTime": "2024-01-15T12:00:00",
+    "bands": {
+      "delta_uV2_Hz": 168.20978405,
+      "theta_uV2_Hz": 245.78356714,
+      "alpha_uV2_Hz": 369.22099274,
+      "beta_uV2_Hz": 374.80189083,
+      "gamma_uV2_Hz": 95.5631389
+    },
+    "cognitiveLoad": 20.5,
+    "calmness": 57.3
+  },
+  {
+    "window": 49,
+    "timeSlot": "12:00",
+    "startTime": "2024-01-15T12:00:00",
+    "endTime": "2024-01-15T12:15:00",
+    "bands": {
+      "delta_uV2_Hz": 171.79660304,
+      "theta_uV2_Hz": 259.88627146,
+      "alpha_uV2_Hz": 350.27546389,
+      "beta_uV2_Hz": 385.20200676,
+      "gamma_uV2_Hz": 94.04353049
+    },
+    "cognitiveLoad": 23.5,
+    "calmness": 52.7
+  },
+  {
+    "window": 50,
+    "timeSlot": "12:15",
+    "startTime": "2024-01-15T12:15:00",
+    "endTime": "2024-01-15T12:30:00",
+    "bands": {
+      "delta_uV2_Hz": 157.2547595,
+      "theta_uV2_Hz": 263.91593375,
+      "alpha_uV2_Hz": 378.17674867,
+      "beta_uV2_Hz": 380.30138971,
+      "gamma_uV2_Hz": 87.00027138
+    },
+    "cognitiveLoad": 20.1,
+    "calmness": 58.4
+  },
+  {
+    "window": 51,
+    "timeSlot": "12:30",
+    "startTime": "2024-01-15T12:30:00",
+    "endTime": "2024-01-15T12:45:00",
+    "bands": {
+      "delta_uV2_Hz": 156.71346458,
+      "theta_uV2_Hz": 262.58031788,
+      "alpha_uV2_Hz": 385.93642675,
+      "beta_uV2_Hz": 378.16130474,
+      "gamma_uV2_Hz": 87.78318315
+    },
+    "cognitiveLoad": 19.2,
+    "calmness": 59.8
+  },
+  {
+    "window": 52,
+    "timeSlot": "12:45",
+    "startTime": "2024-01-15T12:45:00",
+    "endTime": "2024-01-15T13:00:00",
+    "bands": {
+      "delta_uV2_Hz": 155.43152131,
+      "theta_uV2_Hz": 253.43417087,
+      "alpha_uV2_Hz": 377.21384418,
+      "beta_uV2_Hz": 385.34687975,
+      "gamma_uV2_Hz": 88.97977552
+    },
+    "cognitiveLoad": 20.7,
+    "calmness": 58.6
+  },
+  {
+    "window": 53,
+    "timeSlot": "13:00",
+    "startTime": "2024-01-15T13:00:00",
+    "endTime": "2024-01-15T13:15:00",
+    "bands": {
+      "delta_uV2_Hz": 148.2772543,
+      "theta_uV2_Hz": 255.18025722,
+      "alpha_uV2_Hz": 450.25847714,
+      "beta_uV2_Hz": 365.48941556,
+      "gamma_uV2_Hz": 87.78350677
+    },
+    "cognitiveLoad": 13.2,
+    "calmness": 71.0
+  },
+  {
+    "window": 54,
+    "timeSlot": "13:15",
+    "startTime": "2024-01-15T13:15:00",
+    "endTime": "2024-01-15T13:30:00",
+    "bands": {
+      "delta_uV2_Hz": 150.07859292,
+      "theta_uV2_Hz": 256.90260184,
+      "alpha_uV2_Hz": 449.03198094,
+      "beta_uV2_Hz": 359.95594703,
+      "gamma_uV2_Hz": 89.05731666
+    },
+    "cognitiveLoad": 12.8,
+    "calmness": 70.9
+  },
+  {
+    "window": 55,
+    "timeSlot": "13:30",
+    "startTime": "2024-01-15T13:30:00",
+    "endTime": "2024-01-15T13:45:00",
+    "bands": {
+      "delta_uV2_Hz": 148.79574435,
+      "theta_uV2_Hz": 249.05554564,
+      "alpha_uV2_Hz": 445.22689209,
+      "beta_uV2_Hz": 368.26164354,
+      "gamma_uV2_Hz": 89.4553402
+    },
+    "cognitiveLoad": 13.7,
+    "calmness": 70.4
+  },
+  {
+    "window": 56,
+    "timeSlot": "13:45",
+    "startTime": "2024-01-15T13:45:00",
+    "endTime": "2024-01-15T14:00:00",
+    "bands": {
+      "delta_uV2_Hz": 147.29083515,
+      "theta_uV2_Hz": 249.94319604,
+      "alpha_uV2_Hz": 451.15270539,
+      "beta_uV2_Hz": 370.9817548,
+      "gamma_uV2_Hz": 89.50955553
+    },
+    "cognitiveLoad": 13.6,
+    "calmness": 71.0
+  },
+  {
+    "window": 57,
+    "timeSlot": "14:00",
+    "startTime": "2024-01-15T14:00:00",
+    "endTime": "2024-01-15T14:15:00",
+    "bands": {
+      "delta_uV2_Hz": 133.23681114,
+      "theta_uV2_Hz": 212.13912222,
+      "alpha_uV2_Hz": 308.19014567,
+      "beta_uV2_Hz": 471.24681243,
+      "gamma_uV2_Hz": 105.25020113
+    },
+    "cognitiveLoad": 38.9,
+    "calmness": 45.3
+  },
+  {
+    "window": 58,
+    "timeSlot": "14:15",
+    "startTime": "2024-01-15T14:15:00",
+    "endTime": "2024-01-15T14:30:00",
+    "bands": {
+      "delta_uV2_Hz": 104.23240854,
+      "theta_uV2_Hz": 165.10502362,
+      "alpha_uV2_Hz": 242.37755746,
+      "beta_uV2_Hz": 605.00346934,
+      "gamma_uV2_Hz": 102.99319979
+    },
+    "cognitiveLoad": 73.6,
+    "calmness": 31.1
+  },
+  {
+    "window": 59,
+    "timeSlot": "14:30",
+    "startTime": "2024-01-15T14:30:00",
+    "endTime": "2024-01-15T14:45:00",
+    "bands": {
+      "delta_uV2_Hz": 105.75945167,
+      "theta_uV2_Hz": 167.01227608,
+      "alpha_uV2_Hz": 246.53128736,
+      "beta_uV2_Hz": 611.52032113,
+      "gamma_uV2_Hz": 108.70755722
+    },
+    "cognitiveLoad": 73.1,
+    "calmness": 31.2
+  },
+  {
+    "window": 60,
+    "timeSlot": "14:45",
+    "startTime": "2024-01-15T14:45:00",
+    "endTime": "2024-01-15T15:00:00",
+    "bands": {
+      "delta_uV2_Hz": 98.14063671,
+      "theta_uV2_Hz": 162.27009728,
+      "alpha_uV2_Hz": 263.83771915,
+      "beta_uV2_Hz": 615.98812728,
+      "gamma_uV2_Hz": 109.46908107
+    },
+    "cognitiveLoad": 67.8,
+    "calmness": 34.5
+  },
+  {
+    "window": 61,
+    "timeSlot": "15:00",
+    "startTime": "2024-01-15T15:00:00",
+    "endTime": "2024-01-15T15:15:00",
+    "bands": {
+      "delta_uV2_Hz": 97.7801657,
+      "theta_uV2_Hz": 168.31968304,
+      "alpha_uV2_Hz": 252.31911918,
+      "beta_uV2_Hz": 601.13777986,
+      "gamma_uV2_Hz": 109.1406801
+    },
+    "cognitiveLoad": 69.6,
+    "calmness": 32.9
+  },
+  {
+    "window": 62,
+    "timeSlot": "15:15",
+    "startTime": "2024-01-15T15:15:00",
+    "endTime": "2024-01-15T15:30:00",
+    "bands": {
+      "delta_uV2_Hz": 96.42898045,
+      "theta_uV2_Hz": 148.59421401,
+      "alpha_uV2_Hz": 214.46568465,
+      "beta_uV2_Hz": 667.34749368,
+      "gamma_uV2_Hz": 107.76810741
+    },
+    "cognitiveLoad": 95.7,
+    "calmness": 24.3
+  },
+  {
+    "window": 63,
+    "timeSlot": "15:30",
+    "startTime": "2024-01-15T15:30:00",
+    "endTime": "2024-01-15T15:45:00",
+    "bands": {
+      "delta_uV2_Hz": 99.66680778,
+      "theta_uV2_Hz": 157.58759996,
+      "alpha_uV2_Hz": 250.04391021,
+      "beta_uV2_Hz": 618.49177876,
+      "gamma_uV2_Hz": 100.31823438
+    },
+    "cognitiveLoad": 72.8,
+    "calmness": 32.6
+  },
+  {
+    "window": 64,
+    "timeSlot": "15:45",
+    "startTime": "2024-01-15T15:45:00",
+    "endTime": "2024-01-15T16:00:00",
+    "bands": {
+      "delta_uV2_Hz": 105.3409774,
+      "theta_uV2_Hz": 157.4226864,
+      "alpha_uV2_Hz": 244.53810015,
+      "beta_uV2_Hz": 614.37104791,
+      "gamma_uV2_Hz": 110.58797134
+    },
+    "cognitiveLoad": 74.2,
+    "calmness": 31.1
+  },
+  {
+    "window": 65,
+    "timeSlot": "16:00",
+    "startTime": "2024-01-15T16:00:00",
+    "endTime": "2024-01-15T16:15:00",
+    "bands": {
+      "delta_uV2_Hz": 85.08357358,
+      "theta_uV2_Hz": 157.18297939,
+      "alpha_uV2_Hz": 210.46674365,
+      "beta_uV2_Hz": 679.99251218,
+      "gamma_uV2_Hz": 105.2862651
+    },
+    "cognitiveLoad": 100.0,
+    "calmness": 23.3
+  },
+  {
+    "window": 66,
+    "timeSlot": "16:15",
+    "startTime": "2024-01-15T16:15:00",
+    "endTime": "2024-01-15T16:30:00",
+    "bands": {
+      "delta_uV2_Hz": 105.19556261,
+      "theta_uV2_Hz": 168.47874624,
+      "alpha_uV2_Hz": 250.28207982,
+      "beta_uV2_Hz": 615.07980771,
+      "gamma_uV2_Hz": 105.39286175
+    },
+    "cognitiveLoad": 72.2,
+    "calmness": 31.8
+  },
+  {
+    "window": 67,
+    "timeSlot": "16:30",
+    "startTime": "2024-01-15T16:30:00",
+    "endTime": "2024-01-15T16:45:00",
+    "bands": {
+      "delta_uV2_Hz": 129.51118713,
+      "theta_uV2_Hz": 232.8668311,
+      "alpha_uV2_Hz": 490.2594065,
+      "beta_uV2_Hz": 367.02402634,
+      "gamma_uV2_Hz": 67.19284217
+    },
+    "cognitiveLoad": 10.9,
+    "calmness": 81.0
+  },
+  {
+    "window": 68,
+    "timeSlot": "16:45",
+    "startTime": "2024-01-15T16:45:00",
+    "endTime": "2024-01-15T17:00:00",
+    "bands": {
+      "delta_uV2_Hz": 122.77529147,
+      "theta_uV2_Hz": 238.90225215,
+      "alpha_uV2_Hz": 494.68878282,
+      "beta_uV2_Hz": 363.70387919,
+      "gamma_uV2_Hz": 66.3177349
+    },
+    "cognitiveLoad": 10.4,
+    "calmness": 81.9
+  },
+  {
+    "window": 69,
+    "timeSlot": "17:00",
+    "startTime": "2024-01-15T17:00:00",
+    "endTime": "2024-01-15T17:15:00",
+    "bands": {
+      "delta_uV2_Hz": 127.11895685,
+      "theta_uV2_Hz": 261.12842588,
+      "alpha_uV2_Hz": 580.57889612,
+      "beta_uV2_Hz": 264.85627857,
+      "gamma_uV2_Hz": 66.29885093
+    },
+    "cognitiveLoad": 0.4,
+    "calmness": 98.9
+  },
+  {
+    "window": 70,
+    "timeSlot": "17:15",
+    "startTime": "2024-01-15T17:15:00",
+    "endTime": "2024-01-15T17:30:00",
+    "bands": {
+      "delta_uV2_Hz": 132.07147931,
+      "theta_uV2_Hz": 258.10328414,
+      "alpha_uV2_Hz": 575.62723835,
+      "beta_uV2_Hz": 265.96880739,
+      "gamma_uV2_Hz": 66.91258916
+    },
+    "cognitiveLoad": 0.6,
+    "calmness": 98.0
+  },
+  {
+    "window": 71,
+    "timeSlot": "17:30",
+    "startTime": "2024-01-15T17:30:00",
+    "endTime": "2024-01-15T17:45:00",
+    "bands": {
+      "delta_uV2_Hz": 132.53831008,
+      "theta_uV2_Hz": 268.40585075,
+      "alpha_uV2_Hz": 581.90683138,
+      "beta_uV2_Hz": 261.78282435,
+      "gamma_uV2_Hz": 67.80020072
+    },
+    "cognitiveLoad": 0.2,
+    "calmness": 98.0
+  },
+  {
+    "window": 72,
+    "timeSlot": "17:45",
+    "startTime": "2024-01-15T17:45:00",
+    "endTime": "2024-01-15T18:00:00",
+    "bands": {
+      "delta_uV2_Hz": 136.04913757,
+      "theta_uV2_Hz": 262.9882303,
+      "alpha_uV2_Hz": 574.83950984,
+      "beta_uV2_Hz": 270.75837657,
+      "gamma_uV2_Hz": 63.61502775
+    },
+    "cognitiveLoad": 0.9,
+    "calmness": 96.9
+  },
+  {
+    "window": 73,
+    "timeSlot": "18:00",
+    "startTime": "2024-01-15T18:00:00",
+    "endTime": "2024-01-15T18:15:00",
+    "bands": {
+      "delta_uV2_Hz": 127.94760753,
+      "theta_uV2_Hz": 250.23220319,
+      "alpha_uV2_Hz": 575.51642757,
+      "beta_uV2_Hz": 262.04368945,
+      "gamma_uV2_Hz": 64.87478314
+    },
+    "cognitiveLoad": 0.4,
+    "calmness": 99.7
+  },
+  {
+    "window": 74,
+    "timeSlot": "18:15",
+    "startTime": "2024-01-15T18:15:00",
+    "endTime": "2024-01-15T18:30:00",
+    "bands": {
+      "delta_uV2_Hz": 128.50584027,
+      "theta_uV2_Hz": 259.74916553,
+      "alpha_uV2_Hz": 587.00631583,
+      "beta_uV2_Hz": 260.96709056,
+      "gamma_uV2_Hz": 66.47799129
+    },
+    "cognitiveLoad": 0.0,
+    "calmness": 100.0
+  },
+  {
+    "window": 75,
+    "timeSlot": "18:30",
+    "startTime": "2024-01-15T18:30:00",
+    "endTime": "2024-01-15T18:45:00",
+    "bands": {
+      "delta_uV2_Hz": 139.92246015,
+      "theta_uV2_Hz": 263.76224443,
+      "alpha_uV2_Hz": 562.35951303,
+      "beta_uV2_Hz": 257.6910198,
+      "gamma_uV2_Hz": 64.08523612
+    },
+    "cognitiveLoad": 0.5,
+    "calmness": 96.2
+  },
+  {
+    "window": 76,
+    "timeSlot": "18:45",
+    "startTime": "2024-01-15T18:45:00",
+    "endTime": "2024-01-15T19:00:00",
+    "bands": {
+      "delta_uV2_Hz": 131.72153822,
+      "theta_uV2_Hz": 262.40659123,
+      "alpha_uV2_Hz": 568.74577625,
+      "beta_uV2_Hz": 254.31752196,
+      "gamma_uV2_Hz": 63.9976175
+    },
+    "cognitiveLoad": 0.1,
+    "calmness": 98.2
+  },
+  {
+    "window": 77,
+    "timeSlot": "19:00",
+    "startTime": "2024-01-15T19:00:00",
+    "endTime": "2024-01-15T19:15:00",
+    "bands": {
+      "delta_uV2_Hz": 152.27647189,
+      "theta_uV2_Hz": 281.38579788,
+      "alpha_uV2_Hz": 520.09725111,
+      "beta_uV2_Hz": 261.30696055,
+      "gamma_uV2_Hz": 67.34779012
+    },
+    "cognitiveLoad": 2.1,
+    "calmness": 87.7
+  },
+  {
+    "window": 78,
+    "timeSlot": "19:15",
+    "startTime": "2024-01-15T19:15:00",
+    "endTime": "2024-01-15T19:30:00",
+    "bands": {
+      "delta_uV2_Hz": 155.37417606,
+      "theta_uV2_Hz": 287.54390595,
+      "alpha_uV2_Hz": 518.19775081,
+      "beta_uV2_Hz": 256.81751454,
+      "gamma_uV2_Hz": 67.71751931
+    },
+    "cognitiveLoad": 1.8,
+    "calmness": 87.0
+  },
+  {
+    "window": 79,
+    "timeSlot": "19:30",
+    "startTime": "2024-01-15T19:30:00",
+    "endTime": "2024-01-15T19:45:00",
+    "bands": {
+      "delta_uV2_Hz": 160.83059867,
+      "theta_uV2_Hz": 298.30252446,
+      "alpha_uV2_Hz": 526.11965325,
+      "beta_uV2_Hz": 265.85315684,
+      "gamma_uV2_Hz": 67.37716072
+    },
+    "cognitiveLoad": 2.2,
+    "calmness": 85.9
+  },
+  {
+    "window": 80,
+    "timeSlot": "19:45",
+    "startTime": "2024-01-15T19:45:00",
+    "endTime": "2024-01-15T20:00:00",
+    "bands": {
+      "delta_uV2_Hz": 149.81566219,
+      "theta_uV2_Hz": 290.0664697,
+      "alpha_uV2_Hz": 519.62191112,
+      "beta_uV2_Hz": 257.92572707,
+      "gamma_uV2_Hz": 63.10739
+    },
+    "cognitiveLoad": 1.9,
+    "calmness": 87.7
+  },
+  {
+    "window": 81,
+    "timeSlot": "20:00",
+    "startTime": "2024-01-15T20:00:00",
+    "endTime": "2024-01-15T20:15:00",
+    "bands": {
+      "delta_uV2_Hz": 154.6830174,
+      "theta_uV2_Hz": 292.87642244,
+      "alpha_uV2_Hz": 520.64719716,
+      "beta_uV2_Hz": 268.5145696,
+      "gamma_uV2_Hz": 63.35202804
+    },
+    "cognitiveLoad": 2.6,
+    "calmness": 86.3
+  },
+  {
+    "window": 82,
+    "timeSlot": "20:15",
+    "startTime": "2024-01-15T20:15:00",
+    "endTime": "2024-01-15T20:30:00",
+    "bands": {
+      "delta_uV2_Hz": 157.64569487,
+      "theta_uV2_Hz": 290.70592329,
+      "alpha_uV2_Hz": 531.55545473,
+      "beta_uV2_Hz": 270.28758872,
+      "gamma_uV2_Hz": 67.12227583
+    },
+    "cognitiveLoad": 2.3,
+    "calmness": 87.1
+  },
+  {
+    "window": 83,
+    "timeSlot": "20:30",
+    "startTime": "2024-01-15T20:30:00",
+    "endTime": "2024-01-15T20:45:00",
+    "bands": {
+      "delta_uV2_Hz": 152.36488839,
+      "theta_uV2_Hz": 288.60041291,
+      "alpha_uV2_Hz": 517.35817658,
+      "beta_uV2_Hz": 259.61965967,
+      "gamma_uV2_Hz": 67.17421449
+    },
+    "cognitiveLoad": 2.1,
+    "calmness": 86.9
+  },
+  {
+    "window": 84,
+    "timeSlot": "20:45",
+    "startTime": "2024-01-15T20:45:00",
+    "endTime": "2024-01-15T21:00:00",
+    "bands": {
+      "delta_uV2_Hz": 157.82845765,
+      "theta_uV2_Hz": 286.60667078,
+      "alpha_uV2_Hz": 524.49238836,
+      "beta_uV2_Hz": 267.15733861,
+      "gamma_uV2_Hz": 66.11963988
+    },
+    "cognitiveLoad": 2.3,
+    "calmness": 86.9
+  },
+  {
+    "window": 85,
+    "timeSlot": "21:00",
+    "startTime": "2024-01-15T21:00:00",
+    "endTime": "2024-01-15T21:15:00",
+    "bands": {
+      "delta_uV2_Hz": 205.71664216,
+      "theta_uV2_Hz": 363.92559233,
+      "alpha_uV2_Hz": 376.49280754,
+      "beta_uV2_Hz": 277.36374421,
+      "gamma_uV2_Hz": 42.20043782
+    },
+    "cognitiveLoad": 10.5,
+    "calmness": 58.1
+  },
+  {
+    "window": 86,
+    "timeSlot": "21:15",
+    "startTime": "2024-01-15T21:15:00",
+    "endTime": "2024-01-15T21:30:00",
+    "bands": {
+      "delta_uV2_Hz": 198.96229779,
+      "theta_uV2_Hz": 367.06708262,
+      "alpha_uV2_Hz": 383.1798314,
+      "beta_uV2_Hz": 277.787648,
+      "gamma_uV2_Hz": 41.25235423
+    },
+    "cognitiveLoad": 10.1,
+    "calmness": 59.4
+  },
+  {
+    "window": 87,
+    "timeSlot": "21:30",
+    "startTime": "2024-01-15T21:30:00",
+    "endTime": "2024-01-15T21:45:00",
+    "bands": {
+      "delta_uV2_Hz": 202.98688303,
+      "theta_uV2_Hz": 361.84924668,
+      "alpha_uV2_Hz": 379.57964829,
+      "beta_uV2_Hz": 281.35993011,
+      "gamma_uV2_Hz": 49.33231299
+    },
+    "cognitiveLoad": 10.6,
+    "calmness": 58.2
+  },
+  {
+    "window": 88,
+    "timeSlot": "21:45",
+    "startTime": "2024-01-15T21:45:00",
+    "endTime": "2024-01-15T22:00:00",
+    "bands": {
+      "delta_uV2_Hz": 192.51317346,
+      "theta_uV2_Hz": 356.72250045,
+      "alpha_uV2_Hz": 382.92831666,
+      "beta_uV2_Hz": 281.07322621,
+      "gamma_uV2_Hz": 43.60679332
+    },
+    "cognitiveLoad": 10.4,
+    "calmness": 60.1
+  },
+  {
+    "window": 89,
+    "timeSlot": "22:00",
+    "startTime": "2024-01-15T22:00:00",
+    "endTime": "2024-01-15T22:15:00",
+    "bands": {
+      "delta_uV2_Hz": 206.22149543,
+      "theta_uV2_Hz": 364.81415271,
+      "alpha_uV2_Hz": 373.66824768,
+      "beta_uV2_Hz": 280.90684644,
+      "gamma_uV2_Hz": 41.53237739
+    },
+    "cognitiveLoad": 11.0,
+    "calmness": 57.4
+  },
+  {
+    "window": 90,
+    "timeSlot": "22:15",
+    "startTime": "2024-01-15T22:15:00",
+    "endTime": "2024-01-15T22:30:00",
+    "bands": {
+      "delta_uV2_Hz": 202.70566594,
+      "theta_uV2_Hz": 357.15000212,
+      "alpha_uV2_Hz": 389.32456518,
+      "beta_uV2_Hz": 284.31499966,
+      "gamma_uV2_Hz": 45.91004649
+    },
+    "cognitiveLoad": 10.3,
+    "calmness": 60.0
+  },
+  {
+    "window": 91,
+    "timeSlot": "22:30",
+    "startTime": "2024-01-15T22:30:00",
+    "endTime": "2024-01-15T22:45:00",
+    "bands": {
+      "delta_uV2_Hz": 202.07714379,
+      "theta_uV2_Hz": 355.49692181,
+      "alpha_uV2_Hz": 377.80820815,
+      "beta_uV2_Hz": 273.56465806,
+      "gamma_uV2_Hz": 41.67651122
+    },
+    "cognitiveLoad": 10.0,
+    "calmness": 59.4
+  },
+  {
+    "window": 92,
+    "timeSlot": "22:45",
+    "startTime": "2024-01-15T22:45:00",
+    "endTime": "2024-01-15T23:00:00",
+    "bands": {
+      "delta_uV2_Hz": 210.67406622,
+      "theta_uV2_Hz": 363.43922753,
+      "alpha_uV2_Hz": 371.16985695,
+      "beta_uV2_Hz": 275.08165416,
+      "gamma_uV2_Hz": 43.75575832
+    },
+    "cognitiveLoad": 10.6,
+    "calmness": 57.1
+  },
+  {
+    "window": 93,
+    "timeSlot": "23:00",
+    "startTime": "2024-01-15T23:00:00",
+    "endTime": "2024-01-15T23:15:00",
+    "bands": {
+      "delta_uV2_Hz": 206.17240128,
+      "theta_uV2_Hz": 368.69741542,
+      "alpha_uV2_Hz": 377.38950171,
+      "beta_uV2_Hz": 277.01554805,
+      "gamma_uV2_Hz": 41.57735081
+    },
+    "cognitiveLoad": 10.4,
+    "calmness": 58.0
+  },
+  {
+    "window": 94,
+    "timeSlot": "23:15",
+    "startTime": "2024-01-15T23:15:00",
+    "endTime": "2024-01-15T23:30:00",
+    "bands": {
+      "delta_uV2_Hz": 201.09854632,
+      "theta_uV2_Hz": 358.38056935,
+      "alpha_uV2_Hz": 386.75048161,
+      "beta_uV2_Hz": 281.05030407,
+      "gamma_uV2_Hz": 43.14603169
+    },
+    "cognitiveLoad": 10.1,
+    "calmness": 60.0
+  },
+  {
+    "window": 95,
+    "timeSlot": "23:30",
+    "startTime": "2024-01-15T23:30:00",
+    "endTime": "2024-01-15T23:45:00",
+    "bands": {
+      "delta_uV2_Hz": 209.18070503,
+      "theta_uV2_Hz": 351.84305878,
+      "alpha_uV2_Hz": 382.70525695,
+      "beta_uV2_Hz": 282.17802964,
+      "gamma_uV2_Hz": 44.51750721
+    },
+    "cognitiveLoad": 10.5,
+    "calmness": 59.2
+  },
+  {
+    "window": 96,
+    "timeSlot": "23:45",
+    "startTime": "2024-01-15T23:45:00",
+    "endTime": "2024-01-16T00:00:00",
+    "bands": {
+      "delta_uV2_Hz": 271.14351088,
+      "theta_uV2_Hz": 363.629648,
+      "alpha_uV2_Hz": 391.45704566,
+      "beta_uV2_Hz": 276.26375226,
+      "gamma_uV2_Hz": 44.60621201
+    },
+    "cognitiveLoad": 9.4,
+    "calmness": 56.2
   }
 ]
